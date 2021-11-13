@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/graigdmh613518/Kositpaiboon",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
